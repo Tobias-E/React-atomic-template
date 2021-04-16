@@ -8,4 +8,5 @@ export const white = {
 
 export const blue = {
 	100: '#4CA9DF',
+	200: '#61dafb',
 };

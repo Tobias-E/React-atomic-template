@@ -6,7 +6,7 @@ export const theme = {
 	primaryColorHover: black[100],
 	secondaryColor: white[100],
 	secondaryColorHover: white[100],
-	tertiaryColor: blue[100],
+	tertiaryColor: blue[200],
 	tertiaryColorHover: blue[100],
 	textColor: black[100],
 	textColorInverted: white[100],

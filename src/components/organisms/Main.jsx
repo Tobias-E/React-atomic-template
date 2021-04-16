@@ -2,6 +2,7 @@ import styled, { keyframes } from 'styled-components';
 
 // Imported Assets
 import logo from '../../assets/logo.svg';
+import { theme } from '../utils';
 
 export const Main = () => {
 	return (
@@ -36,7 +37,7 @@ const MainStyled = styled.main`
 `;
 
 const Link = styled.a`
-	color: #61dafb;
+	color: ${theme.tertiaryColor};
 `;
 
 const Logo = styled.img`
